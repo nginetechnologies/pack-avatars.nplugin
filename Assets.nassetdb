@@ -27,25 +27,9 @@
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Avatar_Football.tex.nasset"
     },
-    "2a8ae225-6e46-31da-6a6f-b26e3de3565e": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/02.tex.nasset"
-    },
-    "3248852a-70c5-b527-3b23-88d8d47327d6": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/03.tex.nasset"
-    },
-    "35319cf9-7cd6-e81e-8147-75853eb8e5af": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/04.tex.nasset"
-    },
     "35d60bda-e763-819f-8f5e-dd7be1cb0c37": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Avatar_Demon.tex.nasset"
-    },
-    "371f2f7c-0d02-e8b2-7613-6d5d6dc929c5": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/05.tex.nasset"
     },
     "3775950f-3552-f4b1-aa02-f298f4fb842d": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -59,10 +43,6 @@
         "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
         "path": "Package.nplugin",
         "name": "Avatar Assets"
-    },
-    "3f0f3dd1-97f1-7c5d-a7d7-fad8b812ea8d": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Avatar_Sceneri.tex.nasset"
     },
     "4083558e-8cfb-af89-92a0-8325de548e7e": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -95,10 +75,6 @@
     "73da4940-e3e8-ff35-d004-79d89a9fb0f2": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Avatar_Ball_Chick.tex.nasset"
-    },
-    "73f85cf1-a3bb-2447-58b6-65e841cc5aab": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/01.tex.nasset"
     },
     "7b30f8a2-0437-5ee9-1d59-c4183f423219": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
@@ -159,10 +135,6 @@
     "b0ec2505-805c-49a9-d26e-c46c5cc20fd8": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
         "path": "Assets/Avatar_Goldfish.tex.nasset"
-    },
-    "b556e2ff-6330-a195-2f01-1a132f0a65a0": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Avatar_Sceneri_Alt.tex.nasset"
     },
     "bfc42905-a83a-5c52-c8b9-70281a3ae882": {
         "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
